@@ -8,18 +8,18 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Seunghee Youn
+  tagline: Game Developer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
+  email: dldudcjs12345@gmail.com
+  phone: 010 1234 5678
   timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
+  linkedin: seunghee
+  xing: seung
   github: jekyll
   telegram: # add your nickname without '@' sign
   gitlab:
@@ -37,23 +37,23 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Korean
       level: Native
 
-    - idiom: French
-      level: Professional
+    - idiom: English
+      level: Amateur
 
-    - idiom: Spanish
-      level: Professional
+    - idiom: Japanese
+      level: Amateur
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Play Game
       link:
 
 
-    - item: Snowboarding
+    - item: Game Develop
       link:
 
 
